@@ -1,0 +1,21 @@
+{
+	"Chrono Wiki": {
+		"homepage": "https://www.chronowiki.org/wiki/Chrono_Wiki",
+		"api": "https://www.chronowiki.org/w/api.php",
+		"games": [
+			"Chrono Trigger",
+			"Chrono Cross",
+			"Radical Dreamers: Nusumenai Hooseki"
+		],
+		"series": [
+			"Chrono"
+		]
+	},
+	"ARMS Institute": {
+		"homepage": "https://armswiki.org/wiki/Home",
+		"api": "https://armswiki.org/w/api.php",
+		"games": [
+			"ARMS"
+		]
+	}
+}
