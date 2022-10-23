@@ -61,5 +61,17 @@
 			"Dragon Quest Monsters",
 			"Mystery Dungeon"
 		]
+	},
+	"PCGamingWiki": {
+		"homepage": "https://www.pcgamingwiki.com/wiki/Home",
+		"api": "https://www.pcgamingwiki.com/w/api.php",
+		"systems": [
+			"DOS",
+			"Linux",
+			"Mac OS",
+			"MS-DOS",
+			"PC Booter",
+			"Windows"
+		]
 	}
 }
