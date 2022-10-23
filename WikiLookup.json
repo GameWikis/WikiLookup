@@ -17,5 +17,49 @@
 		"games": [
 			"ARMS"
 		]
+	},
+	"Dragon Quest Wiki": {
+		"homepage": "https://dragon-quest.org/wiki/Main_Page",
+		"api": "https://dragon-quest.org/w/api.php",
+		"games": [
+			"Dragon Warrior",
+			"Dragon Warrior II",
+			"Dragon Warrior III",
+			"Dragon Warrior IV",
+			"Dragon Quest V: Hand of the Heavenly Bride",
+			"Dragon Quest VI: Realms of Revelation",
+			"Dragon Warrior VII",
+			"Dragon Quest VIII: Journey of the Cursed King",
+			"Dragon Quest IX: Sentinels of the Starry Skies",
+			"Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online",
+			"Dragon Quest XI: Echoes of an Elusive Age",
+			"Dragon Quest XII: The Flames of Fate]]",
+			"Slime MoriMori Dragon Quest: Shōgeki no Shippo Dan",
+			"Dragon Quest Heroes: Rocket Slime",
+			"Slime MoriMori Dragon Quest 3: Taikaizoku to Shippo Dan",
+			"Dragon Quest: Monster Battle Road]]",
+			"Dragon Quest: Monster Battle Road 2",
+			"Dragon Quest: Monster Battle Road Victory",
+			"Dragon Quest: Monster Battle Road Scanner",
+			"Dragon Quest Swords: The Masked Queen and the Tower of Mirrors",
+			"Dragon Quest Wars",
+			"Dragon Quest Heroes: The World Tree's Woe and the Blight Below",
+			"Dragon Quest of the Stars",
+			"Dragon Quest Builders",
+			"Dragon Quest Heroes II",
+			"Dragon Quest Rivals Ace",
+			"Dragon Quest Builders 2",
+			"Dragon Quest Walk",
+			"Dragon Quest Treasures",
+			"Torneko no Daibouken: Fushigi no Dungeon",
+			"Torneko: The Last Hope",
+			"Dragon Quest Characters: Torneko no Daibouken 3: Fushigi no Dungeon",
+			"Dragon Quest: Shounen Yangus to Fushigi no Dungeon"
+		],
+		"series": [
+			"Dragon Quest",
+			"Dragon Quest Monsters",
+			"Mystery Dungeon"
+		]
 	}
 }
