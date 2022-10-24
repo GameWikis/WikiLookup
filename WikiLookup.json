@@ -1,6 +1,8 @@
-{
-	"Chrono Wiki": {
+[
+	{
+		"name": "Chrono Wiki",
 		"homepage": "https://www.chronowiki.org/wiki/Chrono_Wiki",
+		"lang": "en",
 		"api": "https://www.chronowiki.org/w/api.php",
 		"games": [
 			"Chrono Trigger",
@@ -11,15 +13,195 @@
 			"Chrono"
 		]
 	},
-	"ARMS Institute": {
+	{
+		"name": "ARMS Institute",
 		"homepage": "https://armswiki.org/wiki/Home",
+		"lang": "en",
 		"api": "https://armswiki.org/w/api.php",
 		"games": [
 			"ARMS"
 		]
 	},
-	"Dragon Quest Wiki": {
+	{
+		"name": "Icaruspedia",
+		"homepage": "https://www.kidicaruswiki.org/wiki/Main_Page",
+		"lang": "en",
+		"api": "https://www.kidicaruswiki.org/w/api.php",
+		"games": [
+			"Kid Icarus",
+			"Kid Icarus: Of Myths and Monsters",
+			"Kid Icarus: Uprising",
+			"3D Classics: Kid Icarus"
+		],
+		"series": [
+			"Kid Icarus"
+		]
+	},
+	{
+		"name": "Inkipedia",
+		"homepage": "https://splatoonwiki.org/wiki/Main_Page",
+		"lang": "en",
+		"api": "https://splatoonwiki.org/w/api.php",
+		"games": [
+			"Splatoon",
+			"Splatoon 2",
+			"Splatoon 3"
+		],
+		"series": [
+			"Splatoon"
+		]
+	},
+	{
+		"name": "Inkipédia",
+		"homepage": "https://fr.splatoonwiki.org/wiki/Main_Page",
+		"lang": "fr",
+		"api": "https://fr.splatoonwiki.org/w/api.php",
+		"games": [
+			"Splatoon",
+			"Splatoon 2",
+			"Splatoon 3"
+		],
+		"series": [
+			"Splatoon"
+		]
+	},
+	{
+		"name": "Inkipedia",
+		"homepage": "https://es.splatoonwiki.org/wiki/Main_Page",
+		"lang": "es",
+		"api": "https://es.splatoonwiki.org/w/api.php",
+		"games": [
+			"Splatoon",
+			"Splatoon 2",
+			"Splatoon 3"
+		],
+		"series": [
+			"Splatoon"
+		]
+	},
+	{
+		"name": "Metroid Wiki",
+		"homepage": "https://www.metroidwiki.org/wiki/Main_Page",
+		"lang": "en",
+		"api": "https://www.metroidwiki.org/w/api.php",
+		"games": [
+			"Metroid",
+			"Metroid: Zero Mission",
+			"Metroid Prime",
+			"Metroid Prime: Pinball",
+			"Metroid Prime Hunters",
+			"Metroid Prime 2: Echoes",
+			"Metroid Prime 3: Corruption",
+			"Metroid Prime Trilogy",
+			"Metroid Prime: Federation Force",
+			"Metroid II: Return of Samus",
+			"Metroid: Samus Returns",
+			"Super Metroid",
+			"Metroid: Other M",
+			"Metroid Fusion",
+			"Metroid Dread"
+		],
+		"series": [
+			"Metroid"
+		]
+	},
+	{
+		"name": "The Cycle: Frontier Wiki",
+		"homepage": "https://thecyclefrontier.wiki/wiki/Main_Page",
+		"lang": "en",
+		"api": "https://thecyclefrontier.wiki/w/api.php",
+		"games": [
+			"The Cycle: Frontier"
+		]
+	},
+	{
+		"name": "Wars Wiki",
+		"homepage": "https://warswiki.org/wiki/Main_Page",
+		"lang": "en",
+		"api": "https://warswiki.org/w/api.php",
+		"games": [
+			"64 Wars",
+			"Advance Wars",
+			"Advance Wars 1+2: Re-Boot Camp",
+			"Advance Wars 2: Black Hole Rising",
+			"Advance Wars: Days of Ruin",
+			"Advance Wars: Dual Strike",
+			"Battalion Wars",
+			"Battalion Wars 2",
+			"Famicom Wars",
+			"Game Boy Wars",
+			"Game Boy Wars 2",
+			"Game Boy Wars 3",
+			"Game Boy Wars Advance 1+2",
+			"Game Boy Wars TURBO",
+			"Super Famicom Wars"
+		],
+		"series": [
+			"Famicom Wars",
+			"Game Boy Wars",
+			"Advance Wars",
+			"Battalion Wars"
+		]
+	},
+	{
+		"name": "Zeldapedia",
+		"homepage": "https://zeldapedia.wiki/wiki/Main_Page",
+		"lang": "en",
+		"api": "https://zeldapedia.wiki/w/api.php",
+		"games": [
+			"The Legend of Zelda",
+			"Zelda II: The Adventure of Link",
+			"The Legend of Zelda: A Link to the Past",
+			"The Legend of Zelda: A Link to the Past & Four Swords",
+			"The Legend of Zelda: Ocarina of Time",
+			"The Legend of Zelda: Ocarina of Time Master Quest",
+			"The Legend of Zelda: Ocarina of Time 3D",
+			"The Legend of Zelda: Majora's Mask",
+			"The Legend of Zelda: Majora's Mask 3D",
+			"The Legend of Zelda: The Wind Waker",
+			"The Legend of Zelda: The Wind Waker HD",
+			"The Legend of Zelda: Four Swords Adventures",
+			"The Legend of Zelda: Twilight Princess",
+			"The Legend of Zelda: Twilight Princess HD",
+			"The Legend of Zelda: Skyward Sword",
+			"The Legend of Zelda: Breath of the Wild",
+			"The Legend of Zelda: Tears of the Kingdom",
+			"The Legend of Zelda: Link's Awakening",
+			"The Legend of Zelda: Link's Awakening",
+			"The Legend of Zelda: Link's Awakening (Nintendo Switch)",
+			"The Legend of Zelda: Oracle of Ages",
+			"The Legend of Zelda: Oracle of Seasons",
+			"The Legend of Zelda: Four Swords",
+			"The Legend of Zelda: Four Swords Anniversary Edition",
+			"The Legend of Zelda: The Minish Cap",
+			"The Legend of Zelda: Phantom Hourglass",
+			"The Legend of Zelda: Spirit Tracks",
+			"The Legend of Zelda: A Link Between Worlds",
+			"The Legend of Zelda: Tri Force Heroes",
+			"Hyrule Warriors",
+			"Hyrule Warriors Legends",
+			"Hyrule Warriors: Definitive Edition",
+			"Hyrule Warriors: Age of Calamity",
+			"Link: The Faces of Evil",
+			"Zelda: The Wand of Gamelon",
+			"Zelda's Adventure",
+			"BS The Legend of Zelda",
+			"BS The Legend of Zelda: Inishie no Sekiban",
+			"The Legend of Zelda: Collector's Edition",
+			"Link's Crossbow Training",
+			"My Nintendo Picross: The Legend of Zelda: Twilight Princess",
+			"Cadence of Hyrule: Crypt of the Necrodancer feat. The Legend of Zelda"
+		],
+		"series": [
+			"The Legend of Zelda",
+			"Hyrule Warriors",
+			"Tingle"
+		]
+	},
+	{
+		"name": "Dragon Quest Wiki",
 		"homepage": "https://dragon-quest.org/wiki/Main_Page",
+		"lang": "en",
 		"api": "https://dragon-quest.org/w/api.php",
 		"games": [
 			"Dragon Warrior",
@@ -62,8 +244,10 @@
 			"Mystery Dungeon"
 		]
 	},
-	"PCGamingWiki": {
+	{
+		"name": "PCGamingWiki",
 		"homepage": "https://www.pcgamingwiki.com/wiki/Home",
+		"lang": "en",
 		"api": "https://www.pcgamingwiki.com/w/api.php",
 		"systems": [
 			"DOS",
@@ -74,4 +258,4 @@
 			"Windows"
 		]
 	}
-}
+]
