@@ -12,11 +12,13 @@ Any gaming wiki which meets the following criteria can be added to the list:
 ### Adding entries
 Please submit wikis with the following format. Only include entries if it is a primary subject matter for the wiki.
 
-Wiki name, homepage, and api are required. The rest are optional.
+Wiki name, homepage, lang, and api are required. The rest are optional.
 ```json
-{
-	"Wiki name": {
+[
+	{
+		"name": "Wiki name",
 		"homepage": "https://<url of homepage>",
+		"lang": "en",
 		"api": "https://<url of api>",
 		"companies": [
 			<list of companies>
@@ -33,6 +35,6 @@ Wiki name, homepage, and api are required. The rest are optional.
 		"systems": [
 			<list of systems>
 		]
-	},
-}
+	}
+]
 ```
