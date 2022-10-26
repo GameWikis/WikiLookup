@@ -257,5 +257,74 @@
 			"PC Booter",
 			"Windows"
 		]
+	},
+	{
+		"name": "Wikimon",
+		"homepage": "https://wikimon.net/",
+		"lang": "en",
+		"api": "https://wikimon.net/api.php",
+		"games": [
+			"Digimon World"
+			"Pocket Digimon World"
+			"Digimon World 2"
+			"Pocket Digimon World: Cool & Nature Battle Disc"
+			"Pocket Digimon World: Wind Battle Disc"
+			"Digimon World 3"
+			"Digimon World 4"
+			"Digimon World Re:Digitize"
+			"Digimon World Re:Digitize Decode"
+			"Digimon World: Next Order"
+			"Digimon World: Next Order International Edition"
+			"Digimon World DS"
+			"Digimon World Dusk"
+			"Digimon Story Lost Evolution"
+			"Digimon Story: Super Xros Wars Blue"
+			"Digimon Story: Cyber Sleuth"
+			"Digimon Story: Cyber Sleuth – Hacker's Memory"
+			"Digimon Adventure: Anode Tamer"
+			"Digimon Adventure: Cathode Tamer"
+			"Digimon Adventure: Anode/Cathode Tamer"
+			"Digimon Adventure 02: Tag Tamers"
+			"Digimon Adventure 02: D1 Tamers"
+			"Digimon Tamers: Pocket Culumon"
+			"Digimon Tamers: Digimon Medley"
+			"Digimon Tamers: Brave Tamers"
+			"Digital Monster: D-Project"
+			"Digimon World Data Squad"
+			"Digimon World Championship"
+			"Digimon Adventure"
+			"Digimon Survive"
+			"Digimon Battle Spirit"
+			"Digimon Rumble Arena"
+			"Digimon Tamers: Battle Spirit Ver. 1.5"
+			"Digimon Battle Spirit 2"
+			"Digimon Rumble Arena 2"
+			"Digimon All-Star Rumble"
+			"Digimon World: Digital Card Battle"
+			"Digimon Digital Card Battle"
+			"Digimon Park"
+			"Digital Monster Card Game Ver. WonderSwan Color"
+			"Digimon Battle Online"
+			"Digimon Racing"
+			"Digimon Jintrix"
+			"Digimon Masters"
+			"Digimon Universe Appli Monsters"
+			"Digimon Super Rumble"
+			"Digital Monster Ver. S: Digimon Tamers"
+			"Digital Monster Ver. WonderSwan"
+			"Digital Partner"
+			"Digimon Collectors"
+			"Digimon Heroes!"
+			"Digimon Fusion Fighters"
+			"Digimon Soul Chaser"
+			"Digimon Links"
+			"Digimon ReArise"
+			"Digimon Encounters"
+			"App Monster - Defense"
+			"Digimon New Century"
+		],
+		"series": [
+			"Digimon",
+		]
 	}
 ]
