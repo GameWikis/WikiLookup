@@ -1,40 +1,40 @@
-
-## Wiki Lookup
+# Wiki Lookup
 A repository to list gaming-related independent wikis.
 
-### Inclusion criteria
+## Inclusion criteria
 Any gaming wiki which meets the following criteria can be added to the list:
 * Primary focus of the wiki must be computer or video games.
 * Should be hosted on a site that doesn't cross-promote individual wikis across their network, unless they host fewer than 42 wikis.
 * The wiki should be continuously online. Any wikis that become unresponsive for extended periods of time will be removed.
 * Currently, the wiki must be using the [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) software. Please open an issue for additional wiki software will be accepted in the future.
 
-### Adding entries
+## Adding entries
 Please submit wikis with the following format. Only include entries if it is a primary subject matter for the wiki.
 
 Wiki name, homepage, lang, and api are required. The rest are optional.
 ```json
 [
-	{
-		"name": "Wiki name",
-		"homepage": "https://<url of homepage>",
-		"lang": "en",
-		"api": "https://<url of api>",
-		"companies": [
-			<list of companies>
-		],
-		"games": [
-			<list of games>
-		],
-		"genres": [
-			<list of genres>
-		],
-		"series": [
-			<list of series>
-		],
-		"systems": [
-			<list of systems>
-		]
-	}
+    {
+        "name": "Wiki name",
+        "homepage": "https://<url of homepage>",
+        "lang": "en",
+        "api": "https://<url of api>",
+        "companies": [
+            <list of companies>
+        ],
+        "games": [
+            <list of games>
+        ],
+        "genres": [
+            <list of genres>
+        ],
+        "series": [
+            <list of series>
+        ],
+        "systems": [
+            <list of systems>
+        ]
+    }
 ]
 ```
+[![GitHub Super-Linter](https://github.com/GameWikis/WikiLookup/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
