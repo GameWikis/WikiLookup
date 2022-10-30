@@ -257,5 +257,293 @@
 			"PC Booter",
 			"Windows"
 		]
+	},
+    {
+        "name": "MediEvil Wiki",
+        "homepage": "https://medievil.wiki/w/Main_Page",
+        "lang": "en",
+        "api": "https://medievil.wiki/api.php",
+        "games": [
+            "MediEvil",
+            "MediEvil 2",
+            "MediEvil: Resurrection",
+            "MediEvil (PS4)"
+        ],
+        "series": [
+            "MediEvil"
+        ]
+    },
+    {
+        "name": "Jiggywikki",
+        "homepage": "https://banjokazooiewiki.com/wiki/Main_Page",
+        "lang": "en",
+        "api": "https://banjokazooiewiki.com/w/api.php",
+        "games": [
+            "Banjo-Kazooie",
+            "Banjo-Tooie",
+            "Banjo-Kazooie: Grunty's Revenge",
+            "Banjo-Kazooie: Grunty's Revenge Mobile",
+            "Banjo-Kazooie: Grunty's Revenge Missions",
+            "Banjo-Kazooie: Nuts & Bolts",
+            "Banjo-Pilot"
+        ],
+        "series": [
+            "Banjo-Kazooie"
+        ]
+    },
+    {
+        "name": "Conker Wiki",
+        "homepage": "https://conkerwiki.com/wiki/Main_Page",
+        "lang": "en",
+        "api": "https://conkerwiki.com/w/api.php",
+        "games": [
+            "Conker's Pocket Tales",
+            "Conker's Bad Fur Day",
+            "Conker: Live & Reloaded",
+            "Young Conker"
+        ],
+        "series": [
+            "Conker"
+        ]
+    },
+    {
+        "name": "Crash Bandicoot Wiki",
+        "homepage": "https://crashbandicootwiki.com/wiki/Main_Page",
+        "lang": "en",
+        "api": "https://crashbandicootwiki.com/w/api.php",
+        "games": [
+            "Crash Bandicoot",
+            "Crash Bandicoot 2: Cortex Strikes Back",
+            "Crash Bandicoot: Warped",
+            "Crash Team Racing",
+            "Crash Bash",
+            "Crash Bandicoot: The Wrath of Cortex",
+            "Crash Bandicoot: The Huge Adventure",
+            "Crash Bandicoot 2: N-Tranced",
+            "Crash Nitro Kart",
+            "Crash Bandicoot Purple: Ripto's Rampage",
+            "Crash Twinsanity",
+            "Crash Tag Team Racing",
+            "Crash Boom Bang!",
+            "Crash of the Titans",
+            "Crash: Mind Over Mutant",
+            "Crash Bandicoot Nitro Kart 3D",
+            "Crash Bandicoot Nitro Kart 2",
+            "Crash Bandicoot N. Sane Trilogy",
+            "Crash Team Racing Nitro-Fuelled",
+            "Crash Bandicoot 4: It's About Time",
+            "Crash Bandicoot: On the Run!"
+        ],
+        "series": [
+            "Crash Bandicoot"
+        ]
+    },
+    {
+        "name": "Final Fantasy Wiki",
+        "homepage": "https://finalfantasywiki.com/wiki/Main_Page",
+        "lang": "en",
+        "api": "https://finalfantasywiki.com/w/api.php",
+        "games": [
+            "Final Fantasy",
+            "Final Fantasy II",
+            "Final Fantasy III",
+            "Final Fantasy IV",
+            "Final Fantasy IV: The After Years",
+            "Final Fantasy V",
+            "Final Fantasy VI",
+            "Before Crisis: Final Fantasy VII",
+            "Crisis Core: Final Fantasy VII",
+            "Crisis Core: Final Fantasy VII Reunion",
+            "Final Fantasy VII",
+            "Final Fantasy VII Remake",
+            "Final Fantasy VII Rebirth",
+            "Final Fantasy VII: Ever Crisis",
+            "Final Fantasy VII G-Bike",
+            "Final Fantasy VII Snowboarding",
+            "Dirge of Cerberus: Final Fantasy VII",
+            "Dirge of Cerberus Lost Episode: Final Fantasy VII",
+            "Final Fantasy VIII",
+            "Final Fantasy IX",
+            "Final Fantasy X",
+            "Final Fantasy X-2",
+            "Final Fantasy XI",
+            "Final Fantasy XII",
+            "Final Fantasy XII: Revenant Wings",
+            "Final Fantasy XIII",
+            "Final Fantasy XIII-2",
+            "Lightning Returns: Final Fantasy XIII",
+            "Final Fantasy XIV",
+            "Final Fantasy XIV: A Realm Reborn",
+            "A King's Tale: Final Fantasy XV",
+            "Final Fantasy XV",
+            "Final Fantasy XV: A New Empire",
+            "Final Fantasy XV: Pocket Edition",
+            "Monster of the Deep: Final Fantasy XV",
+            "Final Fantasy XVI",
+            "Stranger of Paradise: Final Fantasy Origin",
+            "Final Fantasy Tactics",
+            "Final Fantasy Tactics Advance",
+            "Final Fantasy Tactics A2: Grimoire of the Rift",
+            "Final Fantasy Tactics S",
+            "Final Fantasy Type-0",
+            "Final Fantasy Agito",
+            "Final Fantasy Awakening"
+        ],
+        "series": [
+            "Final Fantasy",
+            "Final Fantasy Tactics"
+        ]
+    },
+    {
+        "name": "Wiki of Mana",
+        "homepage": "https://wikiofmana.com/wiki/Main_Page",
+        "lang": "en",
+        "api": "https://wikiofmana.com/w/api.php",
+        "games": [
+            "Final Fantasy Adventure",
+            "Secret of Mana",
+            "Trials of Mana",
+            "Legend of Mana",
+            "Sword of Mana",
+            "Children of Mana",
+            "Friends of Mana",
+            "Dawn of Mana",
+            "Heroes of Mana",
+            "Circle of Mana",
+            "Rise of Mana",
+            "Adventures of Mana",
+            "Secret of Mana (2018)",
+            "Collection of Mana",
+            "Trials of Mana (2020)",
+            "Legend of Mana (2021)",
+            "Echoes of Mana"
+        ],
+        "series": [
+            "Mana"
+        ]
+    },
+    {
+        "name": "Rare Wiki",
+        "homepage": "https://rarewiki.com/wiki/Main_Page",
+        "lang": "en",
+        "api": "https://rarewiki.com/w/api.php",
+        "series": [
+            "Donkey Kong Country",
+            "Banjo-Kazooie",
+            "Battletoads",
+            "Conker",
+            "Sabre Wulf"
+        ]
+    },
+    {
+        "name": "SaGa Wiki",
+        "homepage": "https://sagawiki.org/wiki/SaGa_Wiki",
+        "lang": "en",
+        "api": "https://sagawiki.org/w/api.php",
+        "games": [
+            "The Final Fantasy Legend",
+            "Final Fantasy Legend II",
+            "Final Fantasy Legend III",
+            "Romancing SaGa",
+            "Romancing SaGa 2",
+            "Romancing SaGa 3",
+            "SaGa Frontier",
+            "SaGa Frontier 2",
+            "Unlimited Saga",
+            "Emperors SaGa",
+            "Imperial SaGa",
+            "SaGa: Scarlet Grace",
+            "Romancing SaGa Re;univerSe",
+            "Imperial SaGa Eclipse"
+        ],
+        "series": [
+            "SaGa"
+        ]
+    },
+    {
+        "name": "Speedrunwiki",
+        "homepage": "https://www.speedrunwiki.com/Main_Page",
+        "lang": "en",
+        "api": "https://www.speedrunwiki.com/w/api.php"
+    },
+    {
+        "name": "Spyro Wiki",
+        "homepage": "https://spyrowiki.com/wiki/Main_Page",
+        "lang": "en",
+        "api": "https://spyrowiki.com/w/api.php",
+        "games": [
+            "Spyro the Dragon",
+            "Spyro 2: Ripto's Rage!",
+            "Spyro: Year of the Dragon",
+            "Spyro: Season of Ice",
+            "Spyro 2: Season of Flame",
+            "Spyro: Enter the Dragonfly",
+            "Spyro: Attack of the Rhynocs",
+            "Spyro Orange: The Cortex Conspiracy",
+            "Spyro: A Hero's Tail",
+            "Spyro: Shadow Legacy",
+            "The Legend of Spyro: A New Beginning",
+            "The Legend of Spyro: The Eternal Night",
+            "The Legend of Spyro: Dawn of the Dragon",
+            "Spyro Reignited Trilogy"
+        ],
+        "series": [
+            "Spyro the Dragon"
+        ]
+    },
+    {
+		"name": "Triforce Wiki",
+		"homepage": "https://triforcewiki.com/wiki/Main_Page",
+		"lang": "en",
+		"api": "https://triforcewiki.com/w/api.php",
+		"games": [
+			"The Legend of Zelda",
+			"Zelda II: The Adventure of Link",
+			"The Legend of Zelda: A Link to the Past",
+			"The Legend of Zelda: A Link to the Past & Four Swords",
+			"The Legend of Zelda: Ocarina of Time",
+			"The Legend of Zelda: Ocarina of Time Master Quest",
+			"The Legend of Zelda: Ocarina of Time 3D",
+			"The Legend of Zelda: Majora's Mask",
+			"The Legend of Zelda: Majora's Mask 3D",
+			"The Legend of Zelda: The Wind Waker",
+			"The Legend of Zelda: The Wind Waker HD",
+			"The Legend of Zelda: Four Swords Adventures",
+			"The Legend of Zelda: Twilight Princess",
+			"The Legend of Zelda: Twilight Princess HD",
+			"The Legend of Zelda: Skyward Sword",
+			"The Legend of Zelda: Breath of the Wild",
+			"The Legend of Zelda: Tears of the Kingdom",
+			"The Legend of Zelda: Link's Awakening",
+			"The Legend of Zelda: Link's Awakening",
+			"The Legend of Zelda: Link's Awakening (Nintendo Switch)",
+			"The Legend of Zelda: Oracle of Ages",
+			"The Legend of Zelda: Oracle of Seasons",
+			"The Legend of Zelda: Four Swords",
+			"The Legend of Zelda: Four Swords Anniversary Edition",
+			"The Legend of Zelda: The Minish Cap",
+			"The Legend of Zelda: Phantom Hourglass",
+			"The Legend of Zelda: Spirit Tracks",
+			"The Legend of Zelda: A Link Between Worlds",
+			"The Legend of Zelda: Tri Force Heroes",
+			"Hyrule Warriors",
+			"Hyrule Warriors Legends",
+			"Hyrule Warriors: Definitive Edition",
+			"Hyrule Warriors: Age of Calamity",
+			"Link: The Faces of Evil",
+			"Zelda: The Wand of Gamelon",
+			"Zelda's Adventure",
+			"BS The Legend of Zelda",
+			"BS The Legend of Zelda: Inishie no Sekiban",
+			"The Legend of Zelda: Collector's Edition",
+			"Link's Crossbow Training",
+			"My Nintendo Picross: The Legend of Zelda: Twilight Princess",
+			"Cadence of Hyrule: Crypt of the Necrodancer feat. The Legend of Zelda"
+		],
+		"series": [
+			"The Legend of Zelda",
+			"Hyrule Warriors",
+			"Tingle"
+		]
 	}
 ]
