@@ -29,5 +29,4 @@ jobs:
           VALIDATE_NATURAL_LANGUAGE: false
           VALIDATE_JSCPD: false
           DEFAULT_BRANCH: "master"
-          JAVASCRIPT_DEFAULT_STYLE: "prettier"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
