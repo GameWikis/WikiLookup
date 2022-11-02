@@ -545,5 +545,25 @@
 			"Hyrule Warriors",
 			"Tingle"
 		]
+	},
+	{
+		"name": "Star Citizen Wiki",
+		"homepage": "https://starcitizen.tools",
+		"lang": "en",
+		"api": "https://starcitizen.tools/api.php",
+		"games": [
+			"Star Citizen",
+			"Squadron 42"
+		]
+	},
+	{
+		"name": "Star Citizen Wiki",
+		"homepage": "https://star-citizen.wiki/Star_Citizen_Wiki",
+		"lang": "de",
+		"api": "https://star-citizen.wiki/api.php",
+		"games": [
+			"Star Citizen",
+			"Squadron 42"
+		]
 	}
 ]
