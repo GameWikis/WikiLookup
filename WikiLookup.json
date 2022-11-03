@@ -545,5 +545,35 @@
 			"Hyrule Warriors",
 			"Tingle"
 		]
+	},
+	{
+		"name": "Star Citizen Wiki",
+		"homepage": "https://starcitizen.tools",
+		"lang": "en",
+		"api": "https://starcitizen.tools/api.php",
+		"games": [
+			"Star Citizen",
+			"Squadron 42"
+		]
+	},
+	{
+		"name": "Star Citizen Wiki",
+		"homepage": "https://star-citizen.wiki/Star_Citizen_Wiki",
+		"lang": "de",
+		"api": "https://star-citizen.wiki/api.php",
+		"games": [
+			"Star Citizen",
+			"Squadron 42"
+		]
+	},
+	{
+		"name": "星际公民中文Wiki",
+		"homepage": "https://sctoolszh.miraheze.org/wiki/%E9%A6%96%E9%A1%B5",
+		"lang": "zh",
+		"api": "https://sctoolszh.miraheze.org/w/api.php",
+		"games": [
+			"Star Citizen",
+			"Squadron 42"
+		]
 	}
 ]
