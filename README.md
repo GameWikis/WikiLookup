@@ -11,6 +11,8 @@ Any gaming wiki which meets the following criteria can be added to the list:
 ## Adding entries
 Please submit wikis with the following format. Only include entries if it is a primary subject matter for the wiki.
 
+For example, a wiki that covers the _Need for Speed_ series of racing games would include a full `games` list, but would **not** include a racing entry in the `genres` section.
+
 Wiki name, homepage, lang, and api are required. The rest are optional.
 ```json
 [
