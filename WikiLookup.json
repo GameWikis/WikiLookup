@@ -144,10 +144,10 @@
 		]
 	},
 	{
-		"name": "Zeldapedia",
-		"homepage": "https://zeldapedia.wiki/wiki/Main_Page",
+		"name": "Zelda Wiki",
+		"homepage": "https://zeldawiki.wiki/wiki/Main_Page",
 		"lang": "en",
-		"api": "https://zeldapedia.wiki/w/api.php",
+		"api": "https://zeldawiki.wiki/w/api.php",
 		"games": [
 			"The Legend of Zelda",
 			"Zelda II: The Adventure of Link",
