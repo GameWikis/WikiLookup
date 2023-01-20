@@ -575,5 +575,46 @@
 			"Star Citizen",
 			"Squadron 42"
 		]
+	},
+		{
+		"name": "Unofficial Elder Scrolls Pages",
+		"homepage": "https://en.uesp.net	",
+		"lang": "en",
+		"api": "https://en.uesp.net/w/api.php",
+		"companies": [
+		    "Bethesda Softwarks",
+			"Zenimax Online Studios"
+		],
+		"games": [
+		    "Arena",
+			"Daggerfall",
+			"Redguard",
+			"Battlespire",
+			"Morrowind",
+			"Oblivion",
+			"Skyrim",
+			"Elder Scrolls Online",
+			"Blades",
+			"Call to Arms",
+			"Dawnstar",
+			"Legends",
+			"Oblivion Mobile",
+			"Shadowkey",
+			"Skyrim Pinball",
+			"Stormhold"
+		],
+		"genres": [
+		    "Role Playing"
+		],
+		"series": [
+		    "The Elder Scrolls"
+		],
+		"systems": [
+		    "PC",
+			"XBox",
+			"PayStation",
+			"Nintendo Switch",
+			"Mobile"
+		]
 	}
 ]
