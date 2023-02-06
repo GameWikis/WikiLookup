@@ -575,5 +575,30 @@
 			"Star Citizen",
 			"Squadron 42"
 		]
+	},
+	{
+		"name": "Unofficial Elder Scrolls Pages",
+		"homepage": "https://en.uesp.net",
+		"lang": "en",
+		"api": "https://en.uesp.net/w/api.php",
+		"games": [
+			"The Elder Scrolls: Arena",
+			"The Elder Scrolls Chapter II: Daggerfall",
+			"The Elder Scrolls Adventures: Redguard",
+			"An Elder Scrolls Legend: Battlespire",
+			"The Elder Scrolls III: Morrowind",
+			"The Elder Scrolls IV: Oblivion",
+			"The Elder Scrolls V: Skyrim",
+			"The Elder Scrolls Online",
+			"The Elder Scrolls Blades",
+			"The Elder Scrolls Travels: Dawnstar",
+			"The Elder Scrolls Legends",
+			"The Elder Scrolls Travels: Oblivion",
+			"The Elder Scrolls Travels: Shadowkey",
+			"The Elder Scrolls Travels: Stormhold"
+		],
+		"series": [
+			"The Elder Scrolls"
+		]
 	}
 ]
