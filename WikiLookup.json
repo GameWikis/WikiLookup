@@ -498,15 +498,17 @@
 		"homepage": "https://rarewiki.com/wiki/Main_Page",
 		"lang": "en",
 		"api": "https://rarewiki.com/w/api.php",
+		"games": [
+			"GoldenEye 007",
+			"Sabre Wulf",
+			"Sea of Thieves"
+		],
 		"series": [
 			"Donkey Kong Country",
 			"Banjo-Kazooie",
 			"Battletoads",
 			"Conker",
-			"Sabre Wulf",
-			"Perfect Dark",
-			"GoldenEye 007",
-			"Sea of Thieves"
+			"Perfect Dark"
 		]
 	},
 	{
