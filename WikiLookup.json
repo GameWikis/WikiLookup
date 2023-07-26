@@ -259,7 +259,7 @@
 		]
 	},
 	{
-		"name": "MediEvil Wiki",
+		"name": "Gallowpedia",
 		"homepage": "https://medievil.wiki/w/Main_Page",
 		"lang": "en",
 		"api": "https://medievil.wiki/api.php",
@@ -267,7 +267,7 @@
 			"MediEvil",
 			"MediEvil 2",
 			"MediEvil: Resurrection",
-			"MediEvil (PS4)"
+			"MediEvil (2019)"
 		],
 		"series": [
 			"MediEvil"
@@ -332,10 +332,51 @@
 			"Crash Bandicoot N. Sane Trilogy",
 			"Crash Team Racing Nitro-Fuelled",
 			"Crash Bandicoot 4: It's About Time",
-			"Crash Bandicoot: On the Run!"
+			"Crash Bandicoot: On the Run!",
+			"Crash Team Rumble"
 		],
 		"series": [
 			"Crash Bandicoot"
+		]
+	},
+	{
+		"name": "Creatures Wiki",
+		"homepage": "https://creatures.wiki/Creatures_Wiki_Homepage",
+		"lang": "en",
+		"api": "https://creatures.wiki/api.php",
+		"games": [
+			"Creatures",
+			"Creatures 2",
+			"Creatures 3",
+			"Docking Station",
+			"Creatures (Game Boy Advance)",
+			"Creatures (PlayStation)",
+			"Creatures: Raised in Space",
+			"Creatures Trilogy",
+			"Creatures Internet Edition",
+			"Creatures: The Albian Years",
+			"Creatures Exodus",
+			"Creatures Village",
+			"Creatures Triple Collection"
+		],
+		"series": [
+			"Creatures"
+		]
+	},
+	{
+		"name": "Independent Fallout Wiki",
+		"homepage": "https://fallout.wiki/wiki/Fallout_Wiki",
+		"lang": "en",
+		"api": "https://fallout.wiki/api.php",
+		"games": [
+			"Fallout",
+			"Fallout 2",
+			"Fallout 3",
+			"Fallout 4",
+			"Fallout Shelter"
+		],
+		"series": [
+			"Fallout"
 		]
 	},
 	{
@@ -395,6 +436,36 @@
 		]
 	},
 	{
+		"name": "Kingdom Hearts Database",
+		"homepage": "https://www.khdatabase.com/Main_Page",
+		"lang": "en",
+		"api": "https://www.khdatabase.com/api.php",
+		"games": [
+			"Kingdom Hearts",
+			"Kingdom Hearts: Chain of Memories",
+			"Kingdom Hearts Re:Chain of Memories",
+			"Kingdom Hearts II",
+			"Kingdom Hearts 358/2 Days",
+			"Kingdom Hearts: Birth by Sleep",
+			"Kingdom Hearts 3D: Dream Drop Distance",
+			"Kingdom Hearts III",
+			"Kingdom Hearts: Melody of Memory",
+			"Kingdom Hearts coded",
+			"Kingdom Hearts Re:coded",
+			"Kingdom Hearts Union χ",
+			"Kingdom Hearts II Final Mix+",
+			"Kingdom Hearts HD 1.5 ReMIX",
+			"Kingdom Hearts HD 2.5 ReMIX",
+			"Kingdom Hearts HD II.8 Final Chapter Prologue",
+			"Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+			"Kingdom Hearts: The Story So Far",
+			"Kingdom Hearts: All-in-One Package"
+		],
+		"series": [
+			"Kingdom Hearts"
+		]
+	},
+	{
 		"name": "Wiki of Mana",
 		"homepage": "https://wikiofmana.com/wiki/Main_Page",
 		"lang": "en",
@@ -432,7 +503,69 @@
 			"Banjo-Kazooie",
 			"Battletoads",
 			"Conker",
-			"Sabre Wulf"
+			"Sabre Wulf",
+			"Perfect Dark",
+			"GoldenEye 007",
+			"Sea of Thieves"
+		]
+	},
+	{
+		"name": "RayWiki",
+		"homepage": "https://raymanpc.com/wiki/en/Main_Page",
+		"lang": "en",
+		"api": "https://raymanpc.com/wiki/api.php",
+		"games": [
+			"Rayman 1",
+			"Rayman 2: The Great Escape",
+			"Rayman 3: Hoodlum Havoc",
+			"Rayman Origins",
+			"Rayman Legends",
+			"Rayman Revolution",
+			"Rayman Advance",
+			"Rayman Ultimate",
+			"Rayman DS",
+			"Rayman 3D",
+			"Rayman 3 HD",
+			"Rayman Classic",
+			"Rayman Gold",
+			"Rayman Forever",
+			"Rayman Collector",
+			"Rayman 100 Levels",
+			"Rayman Funpack",
+			"Rayman Compilation",
+			"Rayman 3-Pack",
+			"Rayman 1 & 2 Double Pack",
+			"Rayman 10th Anniversary",
+			"Rayman Collectors Edition",
+			"Rayman Collection",
+			"Rayman and Rabbids Family Pack",
+			"Rayman Origins & Legends Double Pack",
+			"Rayman 2 Forever",
+			"Rayman: Hoodlums' Revenge",
+			"Rayman Raving Rabbids",
+			"Rayman Raving Rabbids (GBA)",
+			"Rayman Raving Rabbids (DS)",
+			"Rayman Raving Rabbids 2",
+			"Rayman Raving Rabbids 2 (DS)",
+			"Rayman Raving Rabbids TV Party",
+			"Rayman Raving Rabbids TV Party (DS)",
+			"Rayman Garden",
+			"Rayman Golf",
+			"Rayman Bowling",
+			"Rayman Kart",
+			"Rayman Jungle Run",
+			"Rayman Fiesta Run",
+			"Rayman Adventures",
+			"Rayman Mini",
+			"Rayman Designer",
+			"Rayman By His Fans",
+			"Rayman 60 Levels",
+			"Rayman M",
+			"Rayman Arena",
+			"Rayman Rush"
+		],
+		"series": [
+			"Rayman"
 		]
 	},
 	{
@@ -458,6 +591,23 @@
 		],
 		"series": [
 			"SaGa"
+		]
+	},
+	{
+		"name": "SCEE Cambridge Wiki",
+		"homepage": "https://sceecambridge.wiki/w/Main_Page",
+		"lang": "en",
+		"api": "https://sceecambridge.wiki/api.php",
+		"games": [
+			"Beast Wars: Transformers",
+			"Frogger (1997)",
+			"C-12: Final Resistance",
+			"Primal",
+			"Ghosthunter",
+			"24: The Game",
+			"TV Superstars",
+			"Killzone: Mercenary",
+			"RIGS: Mechanized Combat League"
 		]
 	},
 	{
