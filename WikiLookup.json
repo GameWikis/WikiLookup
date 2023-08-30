@@ -752,5 +752,19 @@
 		"series": [
 			"The Elder Scrolls"
 		]
+	},
+	{
+		"name": "Golden Sun Universe",
+		"homepage": "https://goldensunwiki.net/wiki/Main_Page",
+		"lang": "en",
+		"api": "https://goldensunwiki.net/w/api.php",
+		"games": [
+			"Golden Sun",
+			"Golden Sun: The Lost Age",
+			"Golden Sun: Dark Dawn"
+		],
+		"series": [
+			"Golden Sun"
+		]
 	}
 ]
