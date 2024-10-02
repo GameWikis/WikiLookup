@@ -766,5 +766,281 @@
 		"series": [
 			"Golden Sun"
 		]
+	},
+	{
+		"name": "Europa Universalis 4 Wiki",
+		"homepage": "https://eu4.paradoxwikis.com/Europa_Universalis_4_Wiki",
+		"lang": "en",
+		"api": "https://eu4.paradoxwikis.com/api.php",
+		"games": [
+			"Europa Universalis IV"
+		]
+	},
+	{
+		"name": "Stellaris Wiki",
+		"homepage": "https://stellaris.paradoxwikis.com/Stellaris_Wiki",
+		"lang": "en",
+		"api": "https://stellaris.paradoxwikis.com/api.php",
+		"games": [
+			"Stellaris"
+		]
+	},
+	{
+		"name": "Hearts of Iron 4 Wiki",
+		"homepage": "https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki",
+		"lang": "en",
+		"api": "https://hoi4.paradoxwikis.com/api.php",
+		"games": [
+			"Hearts of Iron IV"
+		]
+	},
+	{
+		"name": "Crusader Kings III Wiki",
+		"homepage": "https://ck3.paradoxwikis.com/Crusader_Kings_III_Wiki",
+		"lang": "en",
+		"api": "https://ck3.paradoxwikis.com/api.php",
+		"games": [
+			"Crusader Kings III"
+		]
+	},
+	{
+		"name": "Victoria 3 Wiki",
+		"homepage": "https://vic3.paradoxwikis.com/Victoria_3_Wiki",
+		"lang": "en",
+		"api": "https://vic3.paradoxwikis.com/api.php",
+		"games": [
+			"Victoria 3"
+		]
+	},
+	{
+		"name": "Age of Wonders 4 Wiki",
+		"homepage": "https://aow4.paradoxwikis.com/Age_of_Wonders_4_Wiki",
+		"lang": "en",
+		"api": "https://aow4.paradoxwikis.com/api.php",
+		"games": [
+			"Age of Wonders 4"
+		]
+	},
+	{
+		"name": "Cities Skylines 2 Wiki",
+		"homepage": "https://cs2.paradoxwikis.com/Cities_Skylines_II_Wiki",
+		"lang": "en",
+		"api": "https://cs2.paradoxwikis.com/api.php",
+		"games": [
+			"Cities: Skylines II"
+		]
+	},
+	{
+		"name": "Millennia Wiki",
+		"homepage": "https://millennia.paradoxwikis.com/Millennia_Wiki",
+		"lang": "en",
+		"api": "https://millennia.paradoxwikis.com/api.php",
+		"games": [
+			"Millennia"
+		]
+	},
+	{
+		"name": "Prison Architect Wiki",
+		"homepage": "https://prisonarchitect.paradoxwikis.com/Main_Page",
+		"lang": "en",
+		"api": "https://prisonarchitect.paradoxwikis.com/api.php",
+		"games": [
+			"Prison Architect"
+		]
+	},
+	{
+		"name": "Vampire: The Masquerade Wiki",
+		"homepage": "https://vtm.paradoxwikis.com/VTM_Wiki",
+		"lang": "en",
+		"api": "https://vtm.paradoxwikis.com/api.php",
+		"games": [
+			"Vampire: The Masquerade - Justice",
+			"Vampire: The Masquerade - Heartless Lullaby",
+			"Vampire: The Masquerade - Bloodhunt",
+			"Vampire: The Masquerade - Swansong",
+			"Vampire: The Masquerade - Coteries of New York",
+			"Vampire: The Masquerade - Shadows of New York",
+			"Vampire: The Masquerade - Night Road",
+			"Vampire: The Masquerade - Out for Blood",
+			"Vampire: The Masquerade - Parliament of Knives",
+			"Vampire: The Masquerade - Sins of the Sires",
+			"Vampire: The Masquerade - Bloodlines 2",
+			"Vampire: The Masquerade - Clans of London",
+			"Vampire: The Masquerade - Reckoning of New York"
+		],
+		"series": [
+			"Vampire: The Masquerade"
+		]
+	},
+	{
+		"name": "Hunter: The Reckoning Wiki",
+		"homepage": "https://htr.paradoxwikis.com/Hunter_The_Reckoning_Wiki",
+		"lang": "en",
+		"api": "https://htr.paradoxwikis.com/api.php",
+		"games": [
+			"Hunter: The Reckoning - The Beast of Glenkildove"
+		],
+		"series": [
+			"Hunter: The Reckoning"
+		]
+	},
+	{
+		"name": "Werewolf: The Apocalypse Wiki",
+		"homepage": "https://wta.paradoxwikis.com/Werewolf_The_Apocalypse_Wiki",
+		"lang": "en",
+		"api": "https://wta.paradoxwikis.com/api.php",
+		"games": [
+			"Werewolf: The Apocalypse - The Book of Hungry Names",
+			"Werewolf: The Apocalypse - Heart of the Forest",
+			"Werewolf: The Apocalypse - Earthblood",
+			"Werewolf: The Apocalypse - Purgatory"
+		],
+		"series": [
+			"Werewolf: The Apocalypse"
+		]
+	},
+	{
+		"name": "Imperator Wiki",
+		"homepage": "https://imperator.paradoxwikis.com/Imperator_Wiki",
+		"lang": "en",
+		"api": "https://imperator.paradoxwikis.com/api.php",
+		"games": [
+			"Imperator: Rome"
+		]
+	},
+	{
+		"name": "Surviving the Aftermath Wiki",
+		"homepage": "https://sta.paradoxwikis.com/Surviving_The_Aftermath_Wiki",
+		"lang": "en",
+		"api": "https://sta.paradoxwikis.com/api.php",
+		"games": [
+			"Surviving The Aftermath"
+		]
+	},
+	{
+		"name": "Surviving Mars Wiki",
+		"homepage": "https://survivingmars.paradoxwikis.com/Surviving_Mars_Wiki",
+		"lang": "en",
+		"api": "https://survivingmars.paradoxwikis.com/api.php",
+		"games": [
+			"Surviving Mars"
+		]
+	},
+	{
+		"name": "Empire of Sin Wiki",
+		"homepage": "https://eos.paradoxwikis.com/Empire_of_Sin_Wiki",
+		"lang": "en",
+		"api": "https://eos.paradoxwikis.com/api.php",
+		"games": [
+			"Empire of Sin"
+		]
+	},
+	{
+		"name": "Crusader Kings II Wiki",
+		"homepage": "https://ck2.paradoxwikis.com/Crusader_Kings_II_Wiki",
+		"lang": "en",
+		"api": "https://ck2.paradoxwikis.com/api.php",
+		"games": [
+			"Crusader Kings II"
+		]
+	},
+	{
+		"name": "Cities: Skylines Wiki",
+		"homepage": "https://skylines.paradoxwikis.com/Cities:_Skylines_Wiki",
+		"lang": "en",
+		"api": "https://skylines.paradoxwikis.com/api.php",
+		"games": [
+			"Cities: Skylines"
+		]
+	},
+	{
+		"name": "AoW: Planetfall Wiki",
+		"homepage": "https://aowplanetfall.paradoxwikis.com/AoW_Planetfall_Wiki",
+		"lang": "en",
+		"api": "https://aowplanetfall.paradoxwikis.com/api.php",
+		"games": [
+			"Age of Wonders: Planetfall"
+		]
+	},
+	{
+		"name": "Tyranny Wiki",
+		"homepage": "https://tyranny.paradoxwikis.com/Tyranny_Wiki",
+		"lang": "en",
+		"api": "https://tyranny.paradoxwikis.com/api.php",
+		"games": [
+			"Tyranny"
+		]
+	},
+	{
+		"name": "Hearts of Iron 3 Wiki",
+		"homepage": "https://hoi3.paradoxwikis.com/Hearts_of_Iron_3_Wiki",
+		"lang": "en",
+		"api": "https://hoi3.paradoxwikis.com/api.php",
+		"games": [
+			"Hearts of Iron III"
+		]
+	},
+	{
+		"name": "Europa Universalis: Rome Wiki",
+		"homepage": "https://eurome.paradoxwikis.com/Europa_Universalis:_Rome_Wiki",
+		"lang": "en",
+		"api": "https://eurome.paradoxwikis.com/api.php",
+		"games": [
+			"Europa Universalis: Rome"
+		]
+	},
+	{
+		"name": "Victoria 2 Wiki",
+		"homepage": "https://vic2.paradoxwikis.com/Victoria_2_Wiki",
+		"lang": "en",
+		"api": "https://vic2.paradoxwikis.com/api.php",
+		"games": [
+			"Victoria II"
+		]
+	},
+	{
+		"name": "Europa Universalis 3 Wiki",
+		"homepage": "https://eu3.paradoxwikis.com/Europa_Universalis_3_Wiki",
+		"lang": "en",
+		"api": "https://eu3.paradoxwikis.com/api.php",
+		"games": [
+			"Europa Universalis III"
+		]
+	},
+	{
+		"name": "Arsenal of Democracy Wiki",
+		"homepage": "https://aod.paradoxwikis.com/Main_Page",
+		"lang": "en",
+		"api": "https://aod.paradoxwikis.com/api.php",
+		"games": [
+			"Arsenal of Democracy"
+		]
+	},
+	{
+		"name": "Victoria 1 Wiki",
+		"homepage": "https://vic1.paradoxwikis.com/Main_Page",
+		"lang": "en",
+		"api": "https://vic1.paradoxwikis.com/api.php",
+		"games": [
+			"Victoria: An Empire Under the Sun"
+		]
+	},
+	{
+		"name": "Europa Universalis 2 Wiki",
+		"homepage": "https://eu2.paradoxwikis.com/Main_Page",
+		"lang": "en",
+		"api": "https://eu2.paradoxwikis.com/api.php",
+		"games": [
+			"Europa Universalis II"
+		]
+	},
+	{
+		"name": "Hearts of Iron 2 Wiki",
+		"homepage": "https://hoi2.paradoxwikis.com/Main_Page",
+		"lang": "en",
+		"api": "https://hoi2.paradoxwikis.com/api.php",
+		"games": [
+			"Hearts of Iron II"
+		]
 	}
 ]
