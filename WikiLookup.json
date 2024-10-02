@@ -783,9 +783,6 @@
 		"api": "https://eu4.paradoxwikis.com/api.php",
 		"games": [
 			"Europa Universalis IV"
-		],
-		"series": [
-			"Europa Universalis"
 		]
 	},
 	{
@@ -804,9 +801,6 @@
 		"api": "https://hoi4.paradoxwikis.com/api.php",
 		"games": [
 			"Hearts of Iron IV"
-		],
-		"series": [
-			"Hearts of Iron"
 		]
 	},
 	{
@@ -816,9 +810,6 @@
 		"api": "https://ck3.paradoxwikis.com/api.php",
 		"games": [
 			"Crusader Kings III"
-		],
-		"series": [
-			"Crusader Kings"
 		]
 	},
 	{
@@ -828,9 +819,6 @@
 		"api": "https://vic3.paradoxwikis.com/api.php",
 		"games": [
 			"Victoria 3"
-		],
-		"series": [
-			"Victoria"
 		]
 	},
 	{
@@ -840,9 +828,6 @@
 		"api": "https://aow4.paradoxwikis.com/api.php",
 		"games": [
 			"Age of Wonders 4"
-		],
-		"series": [
-			"Age of Wonders"
 		]
 	},
 	{
@@ -852,9 +837,6 @@
 		"api": "https://cs2.paradoxwikis.com/api.php",
 		"games": [
 			"Cities: Skylines II"
-		],
-		"series": [
-			"Cities: Skylines"
 		]
 	},
 	{
@@ -896,7 +878,6 @@
 			"Vampire: The Masquerade - Reckoning of New York"
 		],
 		"series": [
-			"World of Darkness",
 			"Vampire: The Masquerade"
 		]
 	},
@@ -909,7 +890,6 @@
 			"Hunter: The Reckoning - The Beast of Glenkildove"
 		],
 		"series": [
-			"World of Darkness",
 			"Hunter: The Reckoning"
 		]
 	},
@@ -925,7 +905,6 @@
 			"Werewolf: The Apocalypse - Purgatory"
 		],
 		"series": [
-			"World of Darkness",
 			"Werewolf: The Apocalypse"
 		]
 	},
@@ -945,9 +924,6 @@
 		"api": "https://sta.paradoxwikis.com/api.php",
 		"games": [
 			"Surviving The Aftermath"
-		],
-		"series": [
-			"Surviving"
 		]
 	},
 	{
@@ -957,9 +933,6 @@
 		"api": "https://survivingmars.paradoxwikis.com/api.php",
 		"games": [
 			"Surviving Mars"
-		],
-		"series": [
-			"Surviving"
 		]
 	},
 	{
@@ -978,9 +951,6 @@
 		"api": "https://ck2.paradoxwikis.com/api.php",
 		"games": [
 			"Crusader Kings II"
-		],
-		"series": [
-			"Crusader Kings"
 		]
 	},
 	{
@@ -989,9 +959,6 @@
 		"lang": "en",
 		"api": "https://skylines.paradoxwikis.com/api.php",
 		"games": [
-			"Cities: Skylines"
-		],
-		"series": [
 			"Cities: Skylines"
 		]
 	},
@@ -1002,9 +969,6 @@
 		"api": "https://aowplanetfall.paradoxwikis.com/api.php",
 		"games": [
 			"Age of Wonders: Planetfall"
-		],
-		"series": [
-			"Age of Wonders"
 		]
 	},
 	{
@@ -1023,9 +987,6 @@
 		"api": "https://hoi3.paradoxwikis.com/api.php",
 		"games": [
 			"Hearts of Iron III"
-		],
-		"series": [
-			"Hearts of Iron"
 		]
 	},
 	{
@@ -1035,9 +996,6 @@
 		"api": "https://eurome.paradoxwikis.com/api.php",
 		"games": [
 			"Europa Universalis: Rome"
-		],
-		"series": [
-			"Europa Universalis"
 		]
 	},
 	{
@@ -1047,9 +1005,6 @@
 		"api": "https://vic2.paradoxwikis.com/api.php",
 		"games": [
 			"Victoria II"
-		],
-		"series": [
-			"Victoria"
 		]
 	},
 	{
@@ -1059,9 +1014,6 @@
 		"api": "https://eu3.paradoxwikis.com/api.php",
 		"games": [
 			"Europa Universalis III"
-		],
-		"series": [
-			"Europa Universalis"
 		]
 	},
 	{
@@ -1071,9 +1023,6 @@
 		"api": "https://aod.paradoxwikis.com/api.php",
 		"games": [
 			"Arsenal of Democracy"
-		],
-		"series": [
-			"Hearts of Iron"
 		]
 	},
 	{
@@ -1083,9 +1032,6 @@
 		"api": "https://vic1.paradoxwikis.com/api.php",
 		"games": [
 			"Victoria: An Empire Under the Sun"
-		],
-		"series": [
-			"Victoria"
 		]
 	},
 	{
@@ -1095,9 +1041,6 @@
 		"api": "https://eu2.paradoxwikis.com/api.php",
 		"games": [
 			"Europa Universalis II"
-		],
-		"series": [
-			"Europa Universalis"
 		]
 	},
 	{
@@ -1107,9 +1050,6 @@
 		"api": "https://hoi2.paradoxwikis.com/api.php",
 		"games": [
 			"Hearts of Iron II"
-		],
-		"series": [
-			"Hearts of Iron"
 		]
 	}
 ]
