@@ -768,15 +768,6 @@
 		]
 	},
 	{
-		"name": "Central Paradox Wikis",
-		"homepage": "https://central.paradoxwikis.com/Main_Page",
-		"lang": "en",
-		"api": "https://central.paradoxwikis.com/api.php",
-		"companies": [
-			"Paradox Interactive"
-		]
-	},
-	{
 		"name": "Europa Universalis 4 Wiki",
 		"homepage": "https://eu4.paradoxwikis.com/Europa_Universalis_4_Wiki",
 		"lang": "en",
