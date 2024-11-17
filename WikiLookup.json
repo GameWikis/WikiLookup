@@ -1042,5 +1042,285 @@
 		"games": [
 			"Hearts of Iron II"
 		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://minecraft.wiki",
+		"lang": "en",
+		"api": "https://minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://de.minecraft.wiki",
+		"lang": "de",
+		"api": "https://de.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://es.minecraft.wiki",
+		"lang": "es",
+		"api": "https://es.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://fr.minecraft.wiki",
+		"lang": "fr",
+		"api": "https://fr.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://it.minecraft.wiki",
+		"lang": "it",
+		"api": "https://it.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://ja.minecraft.wiki",
+		"lang": "ja",
+		"api": "https://ja.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://ko.minecraft.wiki",
+		"lang": "ko",
+		"api": "https://ko.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://lzh.minecraft.wiki",
+		"lang": "lzh",
+		"api": "https://lzh.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://nl.minecraft.wiki",
+		"lang": "nl",
+		"api": "https://nl.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://pt.minecraft.wiki",
+		"lang": "pt",
+		"api": "https://pt.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://ru.minecraft.wiki",
+		"lang": "ru",
+		"api": "https://ru.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://th.minecraft.wiki",
+		"lang": "th",
+		"api": "https://th.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://uk.minecraft.wiki",
+		"lang": "uk",
+		"api": "https://uk.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
+	},
+	{
+		"name": "Minecraft Wiki",
+		"homepage": "https://zh.minecraft.wiki",
+		"lang": "zh",
+		"api": "https://zh.minecraft.wiki/api.php",
+		"games": [
+			"Minecraft",
+			"Minecraft: Java Edition",
+			"Minecraft: Bedrock Edition",
+			"Minecraft: Play with Friends",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Minecraft: Story Mode",
+			"Minecraft: Story Mode - Season Two",
+			"Minecraft Earth"
+		],
+		"series": [
+			"Minecraft"
+		]
 	}
 ]
